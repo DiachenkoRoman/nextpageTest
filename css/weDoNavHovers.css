@@ -1,0 +1,37 @@
+#headphone:hover{
+    background-image: url("../img/weDo/headphoneHover.png");
+}
+#claqueta:hover{
+    background-image: url("../img/weDo/claquetaHover.png");
+}
+#gear:hover{
+    background-image: url("../img/weDo/gearHover.png");
+}
+#glass:hover{
+    background-image: url("../img/weDo/glassHover.png");
+}
+#graphik:hover{
+    background-image: url("../img/weDo/graphikHover.png");
+}
+#star:hover{
+    background-image: url("../img/weDo/starHover.png");
+}
+
+#headphone{
+    background-image: url("../img/weDo/headphone.png");
+}
+#claqueta{
+    background-image: url("../img/weDo/claqueta.png");
+}
+#gear{
+    background-image: url("../img/weDo/gear.png");
+}
+#glass{
+    background-image: url("../img/weDo/glass.png");
+}
+#graphik{
+    background-image: url("../img/weDo/graphik.png");
+}
+#star{
+    background-image: url("../img/weDo/star.png");
+}
